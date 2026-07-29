@@ -1,4 +1,4 @@
-# CLI Painter 🎨: O Fim do Monocromatismo Depressivo
+# CLI Painter 🎨: O Fim do Monocromatismo Depressivo!
 
 Você está exausto de olhar para o seu terminal e sentir que voltou para 1995? O fundo preto com letras brancas padrão está sugando lentamente a sua vontade de codar? 
 
@@ -12,7 +12,7 @@ Apresento o **CLI Painter**. Uma biblioteca construída com uma arquitetura tão
 
 *  🟡 **Amarelo Ansiedade (`print_warning`):** Alerte os usuários de que algo terrível *pode* acontecer a qualquer momento. Perfeito para manter a tensão e o engajamento no seu sistema.
 
-*  🔵 **Engenharia de Ícones Avançada:** Inserimos manualmente caracteres Unicode altamente complexos (`✓`, `✗`, `⚠`, `ℹ`) na frente das suas strings, poupando incríveis 2 segundos da sua vida. 
+*  🔵 **Engenharia de Ícones Avançada:** Insere manualmente caracteres complexos (`✓`, `✗`, `⚠`, `ℹ`) na frente das suas strings, poupando incríveis 2 segundos da sua vida. 
 
 ## Como integrar esta revolução gráfica
 
