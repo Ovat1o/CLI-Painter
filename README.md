@@ -1,4 +1,4 @@
-# CLI Painter 🎨: O Fim do Monocromatismo Depressivo!
+# CLI Painter 🎨: O Fim do Monocromatismo!
 
 Experimente o **CLI Painter**! Uma biblioteca construída com uma arquitetura tão formidável (meia dúzia de variáveis com códigos ANSI) que vai transformar o seu modesto mini app de terminal em uma verdadeira obra de arte. 
 
