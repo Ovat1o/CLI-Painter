@@ -6,10 +6,13 @@ Apresento o **CLI Painter**. Uma biblioteca construída com uma arquitetura tão
 
 ## Funcionalidades de Ponta
 
-*   **Dopamina Visual Technology (`print_success`):** Utilizamos ondas de luz na frequência exata do verde para injetar satisfação instantânea no seu cérebro toda vez que seu código rodar sem quebrar. 
-*   **Protocolo de Pânico (`print_error`):** Por que falhar em silêncio quando você pode sangrar na tela? Esta função não apenas avisa que algo deu errado, mas grita visualmente na cara do usuário, garantindo o desespero apropriado diante de uma falha de sistema.
-*   **Amarelo Ansiedade (`print_warning`):** Alerte os usuários de que algo terrível *pode* acontecer a qualquer momento. Perfeito para manter a tensão e o engajamento no seu sistema.
-*   **Engenharia de Ícones Avançada:** Inserimos manualmente caracteres Unicode altamente complexos (`✓`, `✗`, `⚠`, `ℹ`) na frente das suas strings, poupando incríveis 2 segundos da sua vida. 
+*  🟢 **Dopamina Visual Technology (`print_success`):** Utilizamos ondas de luz na frequência exata do verde para injetar satisfação instantânea no seu cérebro toda vez que seu código rodar sem quebrar. 
+
+*  🔴 **Protocolo de Pânico (`print_error`):** Por que falhar em silêncio quando você pode sangrar na tela? Esta função não apenas avisa que algo deu errado, mas grita visualmente na cara do usuário, garantindo o desespero apropriado diante de uma falha de sistema.
+
+*  🟡 **Amarelo Ansiedade (`print_warning`):** Alerte os usuários de que algo terrível *pode* acontecer a qualquer momento. Perfeito para manter a tensão e o engajamento no seu sistema.
+
+*  🔵 **Engenharia de Ícones Avançada:** Inserimos manualmente caracteres Unicode altamente complexos (`✓`, `✗`, `⚠`, `ℹ`) na frente das suas strings, poupando incríveis 2 segundos da sua vida. 
 
 ## Como integrar esta revolução gráfica
 
